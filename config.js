@@ -1,6 +1,6 @@
 global.owner = [
   "971556195854",
-  ""
+  "971556194854"
 ]
 global.anitav4 = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
 global.ownername = "David Cyril"
